@@ -85,7 +85,6 @@ python3 main_classifier.py --cosine --dataset celeba --target_attribute_1 3 --se
 
 
 ## Results
-
 **Image Classification on CelebA ** (TA: *attractiveness* SA: *male*)
 
 | Model  |   Supervision   | Accuracy(%) | Equalized Odds(%) |
